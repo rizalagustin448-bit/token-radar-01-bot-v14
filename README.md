@@ -22,7 +22,7 @@ C0 ensemble, fitted at runtime from the sealed snapshot — never hardcoded:
   Farm verdicts: FARM ≥ $3/hour, THIN ≥ $1/hour, LEAN below — FARM is
   gated on the interval's low end at $2/hour as well. Every verdict is
   costed at $/hour — the number beside each row is the expected value
-  per hour of work. The board is FARM 63 / THIN 126 / LEAN 9 (v13's
+  per hour of work. The board is FARM 66 / THIN 123 / LEAN 9 (v13's
   $1/hour low-end gate gave FARM 100).
 
 See `dashboard/00-model-validation.md` for the full validation, the

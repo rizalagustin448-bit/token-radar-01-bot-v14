@@ -63,7 +63,7 @@ gated on the interval's low end at $2/hour (see above).
 
 Every verdict is costed at $/hour — the number beside each row is the
 expected value per hour of work. At the $2/hour low-end gate the board
-is FARM 63 / THIN 126 / LEAN 9, against FARM 100 at the $1 gate: the
+is FARM 66 / THIN 123 / LEAN 9, against FARM 100 at the $1 gate: the
 stricter gate keeps only the verdicts whose low end still clears
 $2/hour.
 
